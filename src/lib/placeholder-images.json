@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Abstract background for hero section",
+      "imageUrl": "https://pub-11134a6be96f479ebe08254c1e1fa2f6.r2.dev/tomasz-smal-_HJNQCoXVkU-unsplash.jpg",
+      "imageHint": "abstract background"
+    },
+    {
+      "id": "features-background",
+      "description": "Abstract background for features section",
+      "imageUrl": "https://pub-11134a6be96f479ebe08254c1e1fa2f6.r2.dev/dao-en-wong.jpg",
+      "imageHint": "abstract lines"
+    },
+    {
+      "id": "carousel-background",
+      "description": "Abstract background for client carousel",
+      "imageUrl": "https://pub-11134a6be96f479ebe08254c1e1fa2f6.r2.dev/tomasz-smal-_HJNQCoXVkU-unsplash.jpg",
+      "imageHint": "abstract background"
+    },
+    {
+      "id": "contact-background",
+      "description": "Abstract background for contact section",
+      "imageUrl": "https://pub-11134a6be96f479ebe08254c1e1fa2f6.r2.dev/Homepage_Section_Background.png",
+      "imageHint": "abstract gradient"
+    },
+    {
+      "id": "team-member-1",
+      "description": "Oliver Hibbs-Brockway, Group Chief Executive, Founder",
+      "imageUrl": "https://pub-11134a6be96f479ebe08254c1e1fa2f6.r2.dev/ohb_bustshot.jpg",
+      "imageHint": "professional headshot"
+    },
+    {
+      "id": "team-member-2",
+      "description": "Maria Garcia, Chief Investment Officer",
+      "imageUrl": "https://images.unsplash.com/photo-1574884280706-7342ca3d4231?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmaW5hbmNlJTIwZXhwZXJ0fGVufDB8fHx8MTc2MDczOTA3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "finance expert"
+    },
+    {
+      "id": "team-member-3",
+      "description": "Sam Chen, Head of Technology",
+      "imageUrl": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGVuZ2luZWVyfGVufDB8fHx8MTc2MDczOTA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "software engineer"
+    },
+    {
+      "id": "team-member-4",
+      "description": "Jessica Lee, Head of Product",
+      "imageUrl": "https://images.unsplash.com/photo-1653226439336-177c4c1ccc51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwcm9kdWN0JTIwbWFuYWdlcnxlbnwwfHx8fDE3NjA3MzkwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "product manager"
+    }
+  ]
+}
